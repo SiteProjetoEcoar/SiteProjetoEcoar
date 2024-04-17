@@ -1,6 +1,6 @@
 ### 👋 Olá. Seja Bem Vindo Ao GitHub Do Projeto Ecoar.
-- ✅ Sistema Que Tem Por Objetivo Exibir o Ministério Em Cascudo-Icó-CE.
-- ✅ Esse GitHub Serve Para Exibir o Projeto Ecoar Em Forma De Site.
-- ✅ Serve Para Exibir Projetos, Tanto Android Quanto Web.
+- ✅ Este repositório no GitHub foi criado para apresentar o Projeto Ecoar através de um site.
+- ✅ Este sistema tem por objetivo exibir o Ministério em Cascudo, localizado em Icó, CE.
+- ✅ Ele serve para exibir projetos tanto para Android quanto para a web.
 
 
